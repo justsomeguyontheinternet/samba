@@ -3,4 +3,4 @@
 # Use manifest-tool to create the manifest, given the experimental
 # "docker manifest" command isn't available yet on Docker Hub.
 
-edit 0;
+exit 0;
